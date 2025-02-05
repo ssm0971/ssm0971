@@ -20,6 +20,12 @@ Here are some ideas to get you started:
  안녕하세요 신승민 Git-Hub 입니다 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
+프로필
+이름 : 신승민 <br>
+생일 : 1994.05.11 <br>
+전화번호 : 010-4470-0971 <br>
+
+
 사용언어
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
