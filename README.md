@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
- 안녕하세요 신승민 Git-Hub 입니다 👋
+ <div align=center> 안녕하세요 신승민 Git-Hub 입니다 👋 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
+<br>
 
 ## 프로필
 
@@ -25,6 +26,8 @@ Here are some ideas to get you started:
 생일 : 1994.05.11 <br>
 전화번호 : 010-4470-0971 <br>
 
+<br>
+<br>
 
 ## 사용언어
 
@@ -36,8 +39,8 @@ Here are some ideas to get you started:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-
-
+<br>
+<br>
 
 ## 사용가능도구
 
@@ -47,8 +50,8 @@ Here are some ideas to get you started:
 
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-
-
+<br>
+<br>
 
 ## 협업가능도구
 
