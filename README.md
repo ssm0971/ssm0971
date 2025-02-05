@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 
 이름 : 신승민 <br>
 생일 : 1994.05.11 <br>
+이메일 : ssm0971@naver.com <br>
 전화번호 : 010-4470-0971 <br>
+
 
 <br>
 <br>
