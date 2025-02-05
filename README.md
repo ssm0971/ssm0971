@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
- <div align=center> 안녕하세요 신승민 Git-Hub 입니다 👋 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header" />
+<div align=center> 안녕하세요 신승민 Git-Hub 입니다 👋 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=footer" />
 
 <br>
 
