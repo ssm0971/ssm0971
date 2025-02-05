@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=안녕하세요 신승민 Git-Hub 입니다 👋&fontSize=90)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-## 안녕하세요 신승민 Git-Hub 입니다 👋
+ 안녕하세요 신승민 Git-Hub 입니다 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 사용언어
