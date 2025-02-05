@@ -1,4 +1,4 @@
-## 안녕하세요 신승민 Git-Hub 입니다 👋
+
 
 <!--
 **ssm0971/ssm0971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+## 안녕하세요 신승민 Git-Hub 입니다 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 사용언어
